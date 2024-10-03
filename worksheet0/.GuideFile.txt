@@ -1,0 +1,6 @@
+One//Declaring pointers to vars
+Two// iterating through an array using a pointer
+Three//compare len
+Four//read four numbers from a file and add them up
+Five//swaps two variables using pointers
+Six//ouptutting a 2D array
