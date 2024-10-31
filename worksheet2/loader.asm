@@ -13,4 +13,4 @@ global loader                           ;entry symbol for ELF
         mov eax, 0xCAFEBABE
 
     .loop:
-        jmp.loop
+        jmp .loop
